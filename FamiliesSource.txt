@@ -1,0 +1,37 @@
+/*family name as follows: 1st:founder, middle:parent, last:child */
+/*consider root as parent of founder*/
+/*if you want to add new family, first add its founder in founder list*/
+
+founder: joshi
+founder: modak
+founder: kakatkar
+founder: shende
+ENDfounders
+
+root modak vaishali
+modak vaishali gaurav
+modak gaurav sara
+modak gaurav mayra
+
+root modak vaibhav
+root modak varun
+modak vaibhav vipul
+modak vipul alfaaz
+modak vipul sujit
+modak vipul dimbu
+modak alfaaz john
+
+root kakatkar anant
+
+root kakatkar gadadhar
+kakatkar gadadhar mahendra
+
+root joshi pilya
+joshi pilya anushree
+
+root joshi anand
+joshi anand vina
+
+root shende sunil
+shende sunil raj
+shende sunil sneha
