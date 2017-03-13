@@ -1,7 +1,7 @@
 # projtest
-step towards learning github
+Largest program from my 'C' collection
 
 # Compilation
 ````
-gcc -Wall gyroToDPS.c -lm -o gyroToDPS
+gcc -Wall FamilyTree.c -lm -o FamilyTree
 ````
